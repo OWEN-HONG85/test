@@ -1,0 +1,3 @@
+D:\C++\OpenCV\enlarge\Firstorder\Firstorder\x64\Debug\Firstorder.MyForm.resources
+D:\C++\OpenCV\enlarge\Firstorder\Firstorder\x64\Debug\Firstorder.vcxproj.GenerateResource.cache
+D:\C++\OpenCV\enlarge\Firstorder\Firstorder\x64\Debug\Firstorder.vcxprojAssemblyReference.cache
